@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1771495731106,
+    "title": "bottle",
+    "location": "sqr 1",
+    "dateLost": "2024-02-19",
+    "ownerId": "2210991289",
+    "mobileNo": "9876554550",
+    "features": "milton steel",
+    "status": "open",
+    "createdAt": "2026-02-19T10:08:51.106Z"
+  },
+  {
+    "id": 1772451766052,
+    "title": "watch",
+    "location": "sqr 2",
+    "dateLost": "2024-01-19",
+    "ownerId": "2410991289",
+    "mobileNo": "9839394550",
+    "features": "silver",
+    "status": "open",
+    "createdAt": "2026-03-02T11:42:46.052Z"
+  }
+]

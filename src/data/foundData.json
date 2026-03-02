@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1772470389060,
+    "title": "Blue scale",
+    "location": "TURING 103",
+    "dateFound": "2024-01-26",
+    "foundBy": "2210881277",
+    "source": "student",
+    "features": "NATRAJ",
+    "status": "claimed",
+    "claims": [
+      {
+        "claimantId": "2210991112",
+        "secretDetail": "Has 15 cm length",
+        "status": "approved",
+        "createdAt": "2026-03-02T16:54:26.809Z"
+      },
+      {
+        "claimantId": "2410991112",
+        "secretDetail": "Has 20 cm length",
+        "status": "rejected",
+        "createdAt": "2026-03-02T16:54:37.753Z"
+      }
+    ],
+    "createdAt": "2026-03-02T16:53:09.060Z",
+    "claimedBy": "2210991112",
+    "claimedAt": "2026-03-02T16:55:47.322Z"
+  },
+  {
+    "id": 1772470423408,
+    "title": "bottle",
+    "location": "sqr 1",
+    "dateFound": "2024-01-16",
+    "foundBy": "2210883427",
+    "source": "official",
+    "features": "milton",
+    "status": "open",
+    "claims": [],
+    "createdAt": "2026-03-02T16:53:43.408Z"
+  }
+]
