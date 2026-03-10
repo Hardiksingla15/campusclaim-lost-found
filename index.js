@@ -8,6 +8,7 @@ const lostRoutes = require("./src/routes/lostRoutes");
 const foundRoutes = require("./src/routes/foundRoutes");
 const reportRoutes = require("./src/routes/reportRoutes");
 
+
 app.use("/report", reportRoutes);
 app.use("/lost", lostRoutes);
 app.use("/found", foundRoutes);
