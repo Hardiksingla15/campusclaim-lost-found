@@ -1,4 +1,4 @@
-# Campus Lost & Found Backend
+# Campus claim - Lost & Found Backend
 
 ## Overview
 A modular RESTful backend system for managing campus lost and found items.
@@ -8,7 +8,7 @@ A modular RESTful backend system for managing campus lost and found items.
 - Found item CRUD
 - Claim submission system
 - Claim approval with status control
-- Filtering by status and source
+- Filtering by status and source.
 - Report endpoint for analytics
 - Input validation
 
