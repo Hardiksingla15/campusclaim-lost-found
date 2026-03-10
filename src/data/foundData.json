@@ -26,16 +26,5 @@
     "claimedBy": "2210991112",
     "claimedAt": "2026-03-02T16:55:47.322Z"
   },
-  {
-    "id": 1772470423408,
-    "title": "bottle",
-    "location": "sqr 1",
-    "dateFound": "2024-01-16",
-    "foundBy": "2210883427",
-    "source": "official",
-    "features": "milton",
-    "status": "open",
-    "claims": [],
-    "createdAt": "2026-03-02T16:53:43.408Z"
-  }
+  
 ]
